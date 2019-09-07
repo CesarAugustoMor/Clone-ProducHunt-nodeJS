@@ -1,0 +1,11 @@
+{
+  "name": "project-hunt",
+  "version": "1.0.0",
+  "description": "starter hoketseat",
+  "main": "index.js",
+  "author": "CesarAugustoMor",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
