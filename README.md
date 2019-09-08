@@ -1,3 +1,3 @@
-# Clone-producHunt-backand
+# Clone-producHunt-nodeJS
 Do curso Starter da Rocketseat 
 Códido utilizando NodeJs
